@@ -29,7 +29,7 @@ export default {
       this.$nextTick(() => {
         // eslint-disable-next-line no-undef
         var gitalk = new Gitalk({
-          clientID: 'a28ed76e6f49d2532d6d',
+          clientID: 'a28ed76e6f49d2532d6',
           clientSecret: 'd25ff90013dcb2642129647d9d11209e428053ad',
           repo: 'zhy-blog',
           owner: '13651953784',
