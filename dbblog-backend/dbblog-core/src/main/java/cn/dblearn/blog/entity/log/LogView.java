@@ -14,8 +14,8 @@ import java.time.LocalDateTime;
  * 阅读日志
  * </p>
  *
- * @author zhy
- * @since 2020-02-15
+ * @author bobbi
+ * @since 2019-02-15
  */
 @Data
 @ApiModel(value="ViewLog对象", description="阅读日志")

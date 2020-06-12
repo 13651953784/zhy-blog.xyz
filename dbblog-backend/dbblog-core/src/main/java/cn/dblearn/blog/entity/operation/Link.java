@@ -15,8 +15,8 @@ import java.io.Serializable;
  * 友链
  * </p>
  *
- * @author zhy
- * @since 2020-02-14
+ * @author bobbi
+ * @since 2019-02-14
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

@@ -11,8 +11,8 @@ import java.util.List;
  *  Mapper 接口
  * </p>
  *
- * @author zhy
- * @since 2020-10-08
+ * @author bobbi
+ * @since 2018-10-08
  */
 @Mapper
 public interface SysUserMapper extends BaseMapper<SysUser> {

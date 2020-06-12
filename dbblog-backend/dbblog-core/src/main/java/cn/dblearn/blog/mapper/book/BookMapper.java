@@ -15,8 +15,8 @@ import java.util.Map;
  * 图书表 Mapper 接口
  * </p>
  *
- * @author zhy
- * @since 2020-01-27
+ * @author bobbi
+ * @since 2019-01-27
  */
 @Mapper
 public interface BookMapper extends BaseMapper<Book> {

@@ -9,8 +9,8 @@ import org.apache.ibatis.annotations.Mapper;
  * 文章标签多对多维护表 Mapper 接口
  * </p>
  *
- * @author zhy
- * @since 2020-01-07
+ * @author bobbi
+ * @since 2019-01-07
  */
 @Mapper
 public interface TagLinkMapper extends BaseMapper<TagLink> {

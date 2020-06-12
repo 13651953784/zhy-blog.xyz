@@ -15,8 +15,8 @@ import java.io.Serializable;
  * 云存储资源表
  * </p>
  *
- * @author zhy
- * @since 2020-03-30
+ * @author bobbi
+ * @since 2018-11-30
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

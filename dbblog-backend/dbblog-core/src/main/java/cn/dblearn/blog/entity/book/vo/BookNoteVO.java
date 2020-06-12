@@ -10,9 +10,9 @@ import java.util.List;
 /**
  * ArticleVo
  *
- * @author zhy
+ * @author bobbi
  * @date 2019/01/09 16:51
- * @email 2838635235@qq.com
+ * @email 571002217@qq.com
  * @description 文章列表VO
  */
 @Data

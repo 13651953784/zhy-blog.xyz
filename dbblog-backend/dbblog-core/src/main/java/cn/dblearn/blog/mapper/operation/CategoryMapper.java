@@ -12,8 +12,8 @@ import java.util.Map;
  *  Mapper 接口
  * </p>
  *
- * @author zhy
- * @since 2020-12-17
+ * @author bobbi
+ * @since 2018-12-17
  */
 @Mapper
 public interface CategoryMapper extends BaseMapper<Category> {

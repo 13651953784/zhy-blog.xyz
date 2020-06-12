@@ -20,9 +20,9 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * OAuth2Filter
  *
- * @author zhy
- * @date 2020-03-07 16:39
- * @email 2838635235@qq.com
+ * @author bobbi
+ * @date 2018/10/07 16:39
+ * @email 571002217@qq.com
  * @description
  */
 public class OAuth2Filter extends AuthenticatingFilter {

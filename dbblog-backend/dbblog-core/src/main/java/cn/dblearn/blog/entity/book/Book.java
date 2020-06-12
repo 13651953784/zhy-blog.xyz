@@ -14,8 +14,8 @@ import java.util.Date;
  * 图书表
  * </p>
  *
- * @author zhy
- * @since 2020-01-27
+ * @author bobbi
+ * @since 2019-01-27
  */
 @Data
 @ApiModel(value="ReadBook对象", description="图书表")

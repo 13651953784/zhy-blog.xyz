@@ -9,8 +9,8 @@ import org.apache.ibatis.annotations.Mapper;
  * 系统参数 Mapper 接口
  * </p>
  *
- * @author zhy
- * @since 2020-12-28
+ * @author bobbi
+ * @since 2018-12-28
  */
 @Mapper
 public interface SysParamMapper extends BaseMapper<SysParam> {

@@ -9,8 +9,8 @@ import org.apache.ibatis.annotations.Mapper;
  * 阅读日志 Mapper 接口
  * </p>
  *
- * @author zhy
- * @since 2020-02-15
+ * @author bobbi
+ * @since 2019-02-15
  */
 @Mapper
 public interface LogViewMapper extends BaseMapper<LogView> {

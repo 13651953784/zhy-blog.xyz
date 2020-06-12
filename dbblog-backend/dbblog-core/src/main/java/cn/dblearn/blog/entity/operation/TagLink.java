@@ -14,8 +14,8 @@ import java.io.Serializable;
  * 文章标签多对多维护表
  * </p>
  *
- * @author zhy
- * @since 2020-01-07
+ * @author bobbi
+ * @since 2019-01-07
  */
 @Data
 @ApiModel(value="TagLink对象", description="标签多对多维护表")

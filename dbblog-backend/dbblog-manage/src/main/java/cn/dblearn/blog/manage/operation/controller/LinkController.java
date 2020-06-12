@@ -21,8 +21,8 @@ import java.util.Map;
  * 友链 前端控制器
  * </p>
  *
- * @author zhy
- * @since 2020-02-14
+ * @author bobbi
+ * @since 2019-02-14
  */
 @RestController
 @RequestMapping("/admin/operation/link")

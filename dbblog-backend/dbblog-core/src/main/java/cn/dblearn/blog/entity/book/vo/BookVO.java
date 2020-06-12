@@ -11,9 +11,9 @@ import java.util.List;
 /**
  * ReadBookVo
  *
- * @author zhy
+ * @author bobbi
  * @date 2019/01/29 14:17
- * @email 2838635235@qq.com
+ * @email 571002217@qq.com
  * @description
  */
 @Data

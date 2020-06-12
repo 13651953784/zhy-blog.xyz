@@ -19,8 +19,8 @@ import java.util.Date;
  * 读后感 前端控制器
  * </p>
  *
- * @author zhy
- * @since 2020-02-13
+ * @author bobbi
+ * @since 2019-02-13
  */
 @RestController
 @CacheConfig(cacheNames ={RedisCacheNames.RECOMMEND,RedisCacheNames.TAG,RedisCacheNames.BOOK})

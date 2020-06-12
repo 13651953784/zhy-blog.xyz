@@ -18,8 +18,8 @@ import java.util.Map;
  * 图书表 服务实现类
  * </p>
  *
- * @author zhy
- * @since 2020-01-27
+ * @author bobbi
+ * @since 2019-01-27
  */
 @Service("bookPortalService")
 public class BookServiceImpl extends ServiceImpl<BookMapper, Book> implements BookService {

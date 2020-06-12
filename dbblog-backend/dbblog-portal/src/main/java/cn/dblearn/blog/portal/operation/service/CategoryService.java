@@ -9,9 +9,9 @@ import java.util.Map;
 /**
  * CategoryService
  *
- * @author zhy
+ * @author bobbi
  * @date 2019/02/19 15:33
- * @email 2838635235@qq.com
+ * @email 571002217@qq.com
  * @description
  */
 public interface CategoryService extends IService<Category> {

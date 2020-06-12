@@ -16,8 +16,8 @@ import java.io.Serializable;
  * 类别表
  * </p>
  *
- * @author zhy
- * @since 2020-12-17
+ * @author bobbi
+ * @since 2018-12-17
  */
 @Data
 @TableName("category")

@@ -20,8 +20,8 @@ import java.util.Map;
  * 文章 前端控制器
  * </p>
  *
- * @author zhy
- * @since 2020-03-07
+ * @author bobbi
+ * @since 2018-11-07
  */
 @RestController("articlePortalController")
 @CacheConfig(cacheNames = {RedisCacheNames.ARTICLE})

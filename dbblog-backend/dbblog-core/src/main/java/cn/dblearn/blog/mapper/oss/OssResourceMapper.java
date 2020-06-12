@@ -9,8 +9,8 @@ import org.apache.ibatis.annotations.Mapper;
  * 云存储资源表 Mapper 接口
  * </p>
  *
- * @author zhy
- * @since 2020-03-30
+ * @author bobbi
+ * @since 2018-11-30
  */
 @Mapper
 public interface OssResourceMapper extends BaseMapper<OssResource> {

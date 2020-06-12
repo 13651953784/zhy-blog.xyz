@@ -7,9 +7,9 @@ import org.springframework.context.annotation.Configuration;
 /**
  * MybatisPlusConfig
  *
- * @author zhy
- * @date 2020-03-07 16:35
- * @email 2838635235@qq.com
+ * @author bobbi
+ * @date 2018/10/07 16:35
+ * @email 571002217@qq.com
  * @description
  */
 @Configuration

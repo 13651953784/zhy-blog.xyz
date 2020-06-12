@@ -15,9 +15,9 @@ import java.awt.image.BufferedImage;
 /**
  * SysCaptchaServiceImpl
  *
- * @author zhy
- * @date 2020-03-19 18:56
- * @email 2838635235@qq.com
+ * @author bobbi
+ * @date 2018/10/19 18:56
+ * @email 571002217@qq.com
  * @description
  */
 @Service

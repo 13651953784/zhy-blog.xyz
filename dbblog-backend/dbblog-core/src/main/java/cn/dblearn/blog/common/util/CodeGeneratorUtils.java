@@ -16,9 +16,9 @@ import java.util.*;
 /**
  * CodeGenerator
  *
- * @author zhy
- * @date 2020-03-08 20:24
- * @email 2838635235@qq.com
+ * @author bobbi
+ * @date 2018/10/08 20:24
+ * @email 571002217@qq.com
  * @description mybatis-plus提供的代码生成器
  */
 public class CodeGeneratorUtils {
@@ -59,7 +59,7 @@ public class CodeGeneratorUtils {
         GlobalConfig gc = new GlobalConfig();
         String projectPath = System.getProperty("user.dir");
         gc.setOutputDir(projectPath + "/src/main/java");
-        gc.setAuthor("zhy");;
+        gc.setAuthor("bobbi");;
         gc.setBaseResultMap(true);
         gc.setBaseColumnList(true);
         gc.setOpen(false);

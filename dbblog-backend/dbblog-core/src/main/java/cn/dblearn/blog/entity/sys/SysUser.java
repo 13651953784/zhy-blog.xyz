@@ -21,8 +21,8 @@ import java.util.List;
  * 用户管理
  * </p>
  *
- * @author zhy
- * @since 2020-10-08
+ * @author bobbi
+ * @since 2018-10-08
  */
 @Data
 @ApiModel(value="SysUser对象", description="用户管理")

@@ -15,8 +15,8 @@ import java.util.Map;
  * 文章 Mapper 接口
  * </p>
  *
- * @author zhy
- * @since 2020-03-07
+ * @author bobbi
+ * @since 2018-11-07
  */
 @Mapper
 public interface ArticleMapper extends BaseMapper<Article> {

@@ -25,8 +25,8 @@ import java.util.Date;
  * 文章
  * </p>
  *
- * @author zhy
- * @since 2020-03-07
+ * @author bobbi
+ * @since 2018-11-07
  */
 @Data
 @ApiModel(value="BlogArticle对象", description="文章")

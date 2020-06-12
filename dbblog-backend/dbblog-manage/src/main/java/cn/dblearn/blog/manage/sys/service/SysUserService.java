@@ -12,8 +12,8 @@ import java.util.Map;
  *  服务类
  * </p>
  *
- * @author zhy
- * @since 2020-10-08
+ * @author bobbi
+ * @since 2018-10-08
  */
 public interface SysUserService extends IService<SysUser> {
 

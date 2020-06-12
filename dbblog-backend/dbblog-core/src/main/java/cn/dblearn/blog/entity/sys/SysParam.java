@@ -17,8 +17,8 @@ import java.io.Serializable;
  * 系统参数
  * </p>
  *
- * @author zhy
- * @since 2020-12-28
+ * @author bobbi
+ * @since 2018-12-28
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

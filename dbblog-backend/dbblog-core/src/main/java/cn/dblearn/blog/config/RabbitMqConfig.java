@@ -9,9 +9,9 @@ import org.springframework.context.annotation.Configuration;
 /**
  * RabbitMQConfig
  *
- * @author zhy
+ * @author bobbi
  * @date 2019/03/16 21:59
- * @email 2838635235@qq.com
+ * @email 571002217@qq.com
  * @description
  */
 @Configuration

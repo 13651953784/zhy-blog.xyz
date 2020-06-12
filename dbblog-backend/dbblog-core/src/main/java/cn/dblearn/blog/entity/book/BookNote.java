@@ -15,8 +15,8 @@ import java.util.Date;
  * 笔记
  * </p>
  *
- * @author zhy
- * @since 2020-02-13
+ * @author bobbi
+ * @since 2019-02-13
  */
 @Data
 @ApiModel(value = "BookNote对象", description = "笔记")

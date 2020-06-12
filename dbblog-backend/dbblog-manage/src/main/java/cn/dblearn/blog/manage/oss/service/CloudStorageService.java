@@ -12,9 +12,9 @@ import java.util.UUID;
 /**
  * CloudStorageService
  *
- * @author zhy
- * @date 2020-03-19 18:47
- * @email 2838635235@qq.com
+ * @author bobbi
+ * @date 2018/10/19 18:47
+ * @email 571002217@qq.com
  * @description
  */
 public abstract class CloudStorageService {

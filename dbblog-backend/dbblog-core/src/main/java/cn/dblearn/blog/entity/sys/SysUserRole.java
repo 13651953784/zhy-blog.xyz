@@ -13,8 +13,8 @@ import java.io.Serializable;
  * 用户与角色对应关系
  * </p>
  *
- * @author zhy
- * @since 2020-10-19
+ * @author bobbi
+ * @since 2018-10-19
  */
 @Data
 @ApiModel(value="SysUserRole对象", description="用户与角色对应关系")

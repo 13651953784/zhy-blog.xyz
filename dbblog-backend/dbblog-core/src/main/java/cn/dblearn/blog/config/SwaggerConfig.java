@@ -21,8 +21,8 @@ import static com.google.common.collect.Lists.newArrayList;
 /**
  * SwaggerConfig
  *
- * @author zhy
- * @date 2020-03-07 10:47
+ * @author bobbi
+ * @date 2018/10/07 10:47
  * @description Swagger2配置
  */
 @Configuration

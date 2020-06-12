@@ -1,4 +1,4 @@
-INSERT INTO dbblog.book_note (id, title, description, author, content, content_format, read_num, comment_num, like_num, cover, book_id, chapter, create_time, update_time, recommend, category_id, publish, cover_type, top) VALUES (1, 'Java虚拟机01——Java内存数据区域和内存溢出异常', 'Java虚拟机在执行Java程序的过程中会把它所管理的内存划分为若干个不同的数据区域。这些区域都有各自的用途，以及创建和销毁的时间，有的区域随着虚拟机进程的启动而存在，有些区域则依赖用户线程的启动和结束而建立和销毁.', 'zhy', '# 运行时数据区域
+INSERT INTO dbblog.book_note (id, title, description, author, content, content_format, read_num, comment_num, like_num, cover, book_id, chapter, create_time, update_time, recommend, category_id, publish, cover_type, top) VALUES (1, 'Java虚拟机01——Java内存数据区域和内存溢出异常', 'Java虚拟机在执行Java程序的过程中会把它所管理的内存划分为若干个不同的数据区域。这些区域都有各自的用途，以及创建和销毁的时间，有的区域随着虚拟机进程的启动而存在，有些区域则依赖用户线程的启动和结束而建立和销毁.', 'Bobbi', '# 运行时数据区域
 > Java虚拟机在执行Java程序的过程中会把它所管理的内存划分为若干个不同的数据区域。这些区域都有各自的用途，以及创建和销毁的时间，有的区域随着虚拟机进程的启动而存在，有些区域则依赖用户线程的启动和结束而建立和销毁。根据《Java虚拟机规范（Java SE 7版）》的规定，Java虚拟机所管理的内存将会包括以下几个运行时数据区域，如下图所示：
 我们可以将上面的数据区域分为线程独有、线程共享及其他三大区域：
 ## 1.1. 线程独有的数据区域
@@ -75,4 +75,4 @@ Class文件中除了有类的版本、字段、方法、接口等描述信息外
 <p>直接内存（Direct Memory）
 直接内存并不是虚拟机运行时数据区的一部分，也不是Java虚拟机规范中定义的内存区域。
 这部分内存也可能导致OutOfMemoryError异常出现。</p>
-', 11, 0, 1, null, 1, '第2章 Java内存区域与内存溢出异常', '2020-03-09 17:11:05', '2020-03-04 17:51:15', 1, '4,5,6', 1, 2, null);
+', 11, 0, 1, null, 1, '第2章 Java内存区域与内存溢出异常', '2019-03-09 17:11:05', '2019-03-04 17:51:15', 1, '4,5,6', 1, 2, null);

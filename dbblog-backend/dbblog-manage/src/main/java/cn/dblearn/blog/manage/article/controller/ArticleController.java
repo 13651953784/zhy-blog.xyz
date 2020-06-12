@@ -27,9 +27,9 @@ import java.util.regex.Pattern;
 /**
  * ArticleAdminController
  *
- * @author zhy
- * @date 2020-11/20 20:25
- * @email 2838635235@qq.com
+ * @author bobbi
+ * @date 2018/11/20 20:25
+ * @email 571002217@qq.com
  * @description
  */
 @RestController
@@ -65,7 +65,6 @@ public class ArticleController {
     @CacheEvict(allEntries = true)
     @RefreshEsMqSender(sender = "dbblog-manage-saveArticle")
     public Result saveArticle(@RequestBody ArticleDTO article){
-        //https://blog.csdn.net/weixin_39793646/article/details/81387937  详细讲解ValidatorUtils的用法
         ValidatorUtils.validateEntity(article);
         articleService.saveArticle(article);
         return Result.ok();

@@ -9,8 +9,8 @@ import org.apache.ibatis.annotations.Mapper;
  * 读后感 Mapper 接口
  * </p>
  *
- * @author zhy
- * @since 2020-02-13
+ * @author bobbi
+ * @since 2019-02-13
  */
 @Mapper
 public interface BookSenseMapper extends BaseMapper<BookSense> {

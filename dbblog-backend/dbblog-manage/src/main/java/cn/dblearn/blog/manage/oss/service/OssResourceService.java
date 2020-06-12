@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 云存储资源表 服务类
  * </p>
  *
- * @author zhy
- * @since 2020-03-30
+ * @author bobbi
+ * @since 2018-11-30
  */
 public interface OssResourceService extends IService<OssResource> {
 

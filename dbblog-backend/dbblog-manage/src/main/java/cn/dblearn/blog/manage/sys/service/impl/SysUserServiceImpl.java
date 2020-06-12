@@ -31,8 +31,8 @@ import java.util.Map;
  *  服务实现类
  * </p>
  *
- * @author zhy
- * @since 2020-10-08
+ * @author bobbi
+ * @since 2018-10-08
  */
 @Service
 public class SysUserServiceImpl extends ServiceImpl<SysUserMapper, SysUser> implements SysUserService {
