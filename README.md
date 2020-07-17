@@ -24,7 +24,7 @@
 - 七牛云 图床
 
 ## 站点演示
-[www.dblearn.cn](www.dblearn.cn)
+[zhy-blog.xyz](zhy-blog.xyz)
 
 ## 模块分层
 ### 后端模块
@@ -163,4 +163,4 @@ dbblog-core -> dbblog-auth -> dbblog-manage -> dbblog-portal -> dbblog-search
 
 ![支付.jpg](http://oss.dblearn.cn/dbblog/20190310/7517419c57e14d548ec13f4a550edbc0.jpg)
 
-最后的最后，我的github地址是[https://github.com/llldddbbb/dbblog](https://github.com/llldddbbb/dbblog)，开源不易，一定要给我==Star==哦！！
+最后的最后，我的github地址是[https://github.com/13651953784](https://github.com/13651953784)，开源不易，一定要给我==Star==哦！！
